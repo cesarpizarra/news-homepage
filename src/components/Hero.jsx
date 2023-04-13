@@ -13,7 +13,7 @@ const Hero = () => {
             We dive into the next evolution of the web that claims to put the
             power of the platforms back into the hands of the people. But is it
             really fulfilling its promise?
-            <button className=" block bg-[#131741] text-white p-2 w-2/6 mt-[20px] hover:bg-orange-600 duration-300">
+            <button className=" block bg-[#131741] text-white p-2 md:w-2/6 mt-[20px] hover:bg-orange-600 duration-300">
               READ MORE
             </button>
           </p>
