@@ -32,7 +32,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cesarpizarra/news-homepage"
+    "url": "git+https://github.com/cesarpizarra/news-homepage.git"
   },
   "author": "",
   "license": "ISC",
