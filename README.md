@@ -1,6 +1,6 @@
 # News Homepage Layout with React.js, Vite, and Tailwind CSS
 
-This is a [News Home Page] (https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl) challenge on Frontend Mentor, built using React.js, Vite, and Tailwind CSS. It provides a responsive and visually appealing design for displaying news articles and related information.
+This is a [News Home Page](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl) challenge on Frontend Mentor, built using React.js, Vite, and Tailwind CSS. It provides a responsive and visually appealing design for displaying news articles and related information.
 
 ## Features
 
